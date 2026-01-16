@@ -1,0 +1,16 @@
+name: ai
+channels:
+  - conda-forge
+channel_priority: strict
+dependencies:
+  - python=3.12
+  - pandas
+  - requests
+  - jupyterlab
+  - pip
+  - python-dotenv
+  - matplotlib
+  - urllib3
+  - pip:
+      - openai
+      - metapub

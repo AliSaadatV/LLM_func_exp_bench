@@ -1,0 +1,4 @@
+.env
+res/pdfs/*
+
+notebooks/note_used
